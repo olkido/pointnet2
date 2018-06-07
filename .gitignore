@@ -1,0 +1,8 @@
+data/*
+*.pyc
+*DS_Store
+*/.*
+*/log.txt
+part_seg/log/*
+tf_ops/3d_interpolation/._tf_interpolate_compile.sh
+tf_ops/grouping/._tf_grouping_compile.sh
